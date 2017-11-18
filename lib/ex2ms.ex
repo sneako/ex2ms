@@ -25,7 +25,7 @@ defmodule Ex2ms do
 
   @extra_guard_functions [
     :abs,
-    :element,
+    :elem,
     :hd,
     :count,
     :node,
